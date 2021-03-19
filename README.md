@@ -11,6 +11,7 @@ Uma aplicação que faz uso da técnica Pomodoro que é um método de gerenciame
     <li>Animação da barra circular</li>
     <li>Botão para iniciar o pomodoro</li>
     <li>Botão de Reset para iniciar ou reiniciar um novo pomodoro</li>
+    <li>Cada vez que o ciclo trabalho/descanso termina é tocado um aúdio avisando</li>
   </ul>
   
   <h3>Screenshot</h3>
